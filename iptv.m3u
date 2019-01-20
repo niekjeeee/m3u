@@ -2,391 +2,391 @@
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,NPO1 HD
 #EXTVLCOPT:program=21029
-http://halloiptvnl.hopto.org//1:0:19:5225:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:5225:C99:3:EB0000:0:0:0:
 #EXTINF:-1,NPO2 HD
 #EXTVLCOPT:program=6080
-http://halloiptvnl.hopto.org//1:0:19:17C0:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:17C0:C82:3:EB0000:0:0:0:
 #EXTINF:-1,NPO3 HD
 #EXTVLCOPT:program=21040
-http://halloiptvnl.hopto.org//1:0:19:5230:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:5230:C99:3:EB0000:0:0:0:
 #EXTINF:-1,RTL4 HD
 #EXTVLCOPT:program=7020
-http://halloiptvnl.hopto.org//1:0:19:1B6C:C88:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:1B6C:C88:3:EB0000:0:0:0:
 #EXTINF:-1,RTL5 HD
 #EXTVLCOPT:program=7023
-http://halloiptvnl.hopto.org//1:0:19:1B6F:C88:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:1B6F:C88:3:EB0000:0:0:0:
 #EXTINF:-1,SBS6 HD
 #EXTVLCOPT:program=6090
-http://halloiptvnl.hopto.org//1:0:19:17CA:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:17CA:C82:3:EB0000:0:0:0:
 #EXTINF:-1,RTL7 HD
 #EXTVLCOPT:program=7027
-http://halloiptvnl.hopto.org//1:0:19:1B73:C88:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:1B73:C88:3:EB0000:0:0:0:
 #EXTINF:-1,RTL8 HD
 #EXTVLCOPT:program=7036
-http://halloiptvnl.hopto.org//1:0:19:1B7C:C88:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:1B7C:C88:3:EB0000:0:0:0:
 #EXTINF:-1,SBS9
 #EXTVLCOPT:program=20945
-http://halloiptvnl.hopto.org//1:0:16:51D1:C96:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:51D1:C96:3:EB0000:0:0:0:
 #EXTINF:-1,NET5 HD
 #EXTVLCOPT:program=21020
-http://halloiptvnl.hopto.org//1:0:19:521C:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:521C:C99:3:EB0000:0:0:0:
 #EXTINF:-1,RTL Z
 #EXTVLCOPT:program=7058
-http://halloiptvnl.hopto.org//1:0:16:1B92:C88:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:1B92:C88:3:EB0000:0:0:0:
 #EXTINF:-1,Veronica/DisneyXD HD
 #EXTVLCOPT:program=21035
-http://halloiptvnl.hopto.org//1:0:19:522B:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:522B:C99:3:EB0000:0:0:0:
 #EXTINF:-1,een HD
 #EXTVLCOPT:program=21025
-http://halloiptvnl.hopto.org//1:0:19:5221:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:5221:C99:3:EB0000:0:0:0:
 #EXTINF:-1,Canvas HD
 #EXTVLCOPT:program=21030
-http://halloiptvnl.hopto.org//1:0:19:5226:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:5226:C99:3:EB0000:0:0:0:
 #EXTINF:-1,NPO Politiek
 #EXTVLCOPT:program=6010
-http://halloiptvnl.hopto.org//1:0:16:177A:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:177A:C82:3:EB0000:0:0:0:
 #EXTINF:-1,ONS
 #EXTVLCOPT:program=6067
-http://halloiptvnl.hopto.org//1:0:16:17B3:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:17B3:C82:3:EB0000:0:0:0:
 #EXTINF:-1,L1MBURG
 #EXTVLCOPT:program=6119
-http://halloiptvnl.hopto.org//1:0:16:17E7:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:17E7:C82:3:EB0000:0:0:0:
 #EXTINF:-1,Omroep Brabant Televisie
 #EXTVLCOPT:program=21096
-http://halloiptvnl.hopto.org//1:0:16:5268:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:5268:C99:3:EB0000:0:0:0:
 #EXTINF:-1,Omrop Fryslan Televisie
 #EXTVLCOPT:program=21069
-http://halloiptvnl.hopto.org//1:0:16:524D:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:524D:C99:3:EB0000:0:0:0:
 #EXTINF:-1,Omroep Zeeland Televisie
 #EXTVLCOPT:program=21097
-http://halloiptvnl.hopto.org//1:0:16:5269:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:5269:C99:3:EB0000:0:0:0:
 #EXTINF:-1,TV Drenthe
 #EXTVLCOPT:program=21071
-http://halloiptvnl.hopto.org//1:0:16:524F:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:524F:C99:3:EB0000:0:0:0:
 #EXTINF:-1,TV Gelderland
 #EXTVLCOPT:program=21072
-http://halloiptvnl.hopto.org//1:0:16:5250:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:5250:C99:3:EB0000:0:0:0:
 #EXTINF:-1,TV Noord
 #EXTVLCOPT:program=21093
-http://halloiptvnl.hopto.org//1:0:16:5265:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:5265:C99:3:EB0000:0:0:0:
 #EXTINF:-1,TV Oost
 #EXTVLCOPT:program=21074
-http://halloiptvnl.hopto.org//1:0:16:5252:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:5252:C99:3:EB0000:0:0:0:
 #EXTINF:-1,Film1 Premiere HD
 #EXTVLCOPT:program=20955
-http://halloiptvnl.hopto.org//1:0:19:51DB:C96:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:51DB:C96:3:EB0000:0:0:0:
 #EXTINF:-1,Film1 Action
 #EXTVLCOPT:program=20920
-http://halloiptvnl.hopto.org//1:0:16:51B8:C96:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:51B8:C96:3:EB0000:0:0:0:
 #EXTINF:-1,Film1 Drama
 #EXTVLCOPT:program=20915
-http://halloiptvnl.hopto.org//1:0:16:51B3:C96:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:51B3:C96:3:EB0000:0:0:0:
 #EXTINF:-1,Film1 Family
 #EXTVLCOPT:program=20910
-http://halloiptvnl.hopto.org//1:0:16:51AE:C96:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:51AE:C96:3:EB0000:0:0:0:
 #EXTINF:-1,Film Europe INT HD
 #EXTVLCOPT:program=5069
-http://halloiptvnl.hopto.org//1:0:19:13CD:C95:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:13CD:C95:3:EB0000:0:0:0:
 #EXTINF:-1,Comedy Central
 #EXTVLCOPT:program=14072
-http://halloiptvnl.hopto.org//1:0:16:36F8:C8C:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:36F8:C8C:3:EB0000:0:0:0:
 #EXTINF:-1,E! Entertainment BNL
 #EXTVLCOPT:program=6122
-http://halloiptvnl.hopto.org//1:0:16:17EA:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:17EA:C82:3:EB0000:0:0:0:
 #EXTINF:-1,FOX Channel
 #EXTVLCOPT:program=6030
-http://halloiptvnl.hopto.org//1:0:16:178E:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:178E:C82:3:EB0000:0:0:0:
 #EXTINF:-1,RTL Lounge
 #EXTVLCOPT:program=4066
-http://halloiptvnl.hopto.org//1:0:16:FE2:451:35:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:FE2:451:35:C00000:0:0:0:
 #EXTINF:-1,Spike 24
 #EXTVLCOPT:program=14073
-http://halloiptvnl.hopto.org//1:0:16:36F9:C8C:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:36F9:C8C:3:EB0000:0:0:0:
 #EXTINF:-1,the QYOU
 #EXTVLCOPT:program=6094
-http://halloiptvnl.hopto.org//1:0:19:17CE:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:17CE:C82:3:EB0000:0:0:0:
 #EXTINF:-1,TLC
 #EXTVLCOPT:program=20949
-http://halloiptvnl.hopto.org//1:0:16:51D5:C96:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:51D5:C96:3:EB0000:0:0:0:
 #EXTINF:-1,FOX Sports 1 HD
 #EXTVLCOPT:program=6092
-http://halloiptvnl.hopto.org//1:0:19:17CC:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:17CC:C82:3:EB0000:0:0:0:
 #EXTINF:-1,FOX Sports 2 HD
 #EXTVLCOPT:program=7164
-http://halloiptvnl.hopto.org//1:0:19:1BFC:C88:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:1BFC:C88:3:EB0000:0:0:0:
 #EXTINF:-1,FOX Sports 4 HD
 #EXTVLCOPT:program=6068
-http://halloiptvnl.hopto.org//1:0:19:17B4:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:17B4:C82:3:EB0000:0:0:0:
 #EXTINF:-1,AutoMotorSport HD
 #EXTVLCOPT:program=6103
-http://halloiptvnl.hopto.org//1:0:19:17D7:C91:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:17D7:C91:3:EB0000:0:0:0:
 #EXTINF:-1,EDGE
 #EXTVLCOPT:program=6111
-http://halloiptvnl.hopto.org//1:0:19:17DF:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:17DF:C82:3:EB0000:0:0:0:
 #EXTINF:-1,esportsTV HD
 #EXTVLCOPT:program=14123
-http://halloiptvnl.hopto.org//1:0:19:372B:C8E:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:372B:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Eurosport 1 HD NL
 #EXTVLCOPT:program=21217
-http://halloiptvnl.hopto.org//1:0:19:52E1:C96:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:52E1:C96:3:EB0000:0:0:0:
 #EXTINF:-1,Eurosport 2 NL
 #EXTVLCOPT:program=7060
-http://halloiptvnl.hopto.org//1:0:16:1B94:C88:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:1B94:C88:3:EB0000:0:0:0:
 #EXTINF:-1,Fishing and Hunting
 #EXTVLCOPT:program=788
-http://halloiptvnl.hopto.org//1:0:16:314:C94:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:314:C94:3:EB0000:0:0:0:
 #EXTINF:-1,Nautical HD
 #EXTVLCOPT:program=7165
-http://halloiptvnl.hopto.org//1:0:19:1BFD:C88:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:1BFD:C88:3:EB0000:0:0:0:
 #EXTINF:-1,sportdigital HD
 #EXTVLCOPT:program=4120
-http://halloiptvnl.hopto.org//1:0:19:1018:451:35:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:1018:451:35:C00000:0:0:0:
 #EXTINF:-1,Ziggo Sport Golf
 #EXTVLCOPT:program=20930
-http://halloiptvnl.hopto.org//1:0:16:51C2:C96:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:51C2:C96:3:EB0000:0:0:0:
 #EXTINF:-1,Ziggo Sport Select HD
 #EXTVLCOPT:program=20960
-http://halloiptvnl.hopto.org//1:0:19:51E0:C96:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:51E0:C96:3:EB0000:0:0:0:
 #EXTINF:-1,Ziggo Sport Voetbal
 #EXTVLCOPT:program=20925
-http://halloiptvnl.hopto.org//1:0:16:51BD:C96:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:51BD:C96:3:EB0000:0:0:0:
 #EXTINF:-1,192TV
 #EXTVLCOPT:program=6015
-http://halloiptvnl.hopto.org//1:0:16:177F:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:177F:C82:3:EB0000:0:0:0:
 #EXTINF:-1,Stingray Brava HD
 #EXTVLCOPT:program=783
-http://halloiptvnl.hopto.org//1:0:19:30F:C94:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:30F:C94:3:EB0000:0:0:0:
 #EXTINF:-1,Stingray CMusic
 #EXTVLCOPT:program=781
-http://halloiptvnl.hopto.org//1:0:16:30D:C94:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:30D:C94:3:EB0000:0:0:0:
 #EXTINF:-1,iConcert
 #EXTVLCOPT:program=6102
-http://halloiptvnl.hopto.org//1:0:19:17D6:C91:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:17D6:C91:3:EB0000:0:0:0:
 #EXTINF:-1,MEZZO
 #EXTVLCOPT:program=8010
-http://halloiptvnl.hopto.org//1:0:19:1F4A:42E:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:1F4A:42E:1:C00000:0:0:0:
 #EXTINF:-1,MTV NL
 #EXTVLCOPT:program=14070
-http://halloiptvnl.hopto.org//1:0:16:36F6:C8C:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:36F6:C8C:3:EB0000:0:0:0:
 #EXTINF:-1,MTV Music 24
 #EXTVLCOPT:program=28671
-http://halloiptvnl.hopto.org//1:0:1:6FFF:436:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:6FFF:436:1:C00000:0:0:0:
 #EXTINF:-1,Retro Music TV
 #EXTVLCOPT:program=6125
-http://halloiptvnl.hopto.org//1:0:16:17ED:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:17ED:C82:3:EB0000:0:0:0:
 #EXTINF:-1,TV Oranje
 #EXTVLCOPT:program=779
-http://halloiptvnl.hopto.org//1:0:16:30B:C94:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:30B:C94:3:EB0000:0:0:0:
 #EXTINF:-1,UNITEL CLASSICA HD
 #EXTVLCOPT:program=6101
-http://halloiptvnl.hopto.org//1:0:19:17D5:C91:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:17D5:C91:3:EB0000:0:0:0:
 #EXTINF:-1,VH1
 #EXTVLCOPT:program=28656
-http://halloiptvnl.hopto.org//1:0:1:6FF0:436:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:6FF0:436:1:C00000:0:0:0:
 #EXTINF:-1,VH1 Classic
 #EXTVLCOPT:program=28657
-http://halloiptvnl.hopto.org//1:0:1:6FF1:436:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:6FF1:436:1:C00000:0:0:0:
 #EXTINF:-1,Animal Planet
 #EXTVLCOPT:program=5040
-http://halloiptvnl.hopto.org//1:0:16:13B0:C95:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:13B0:C95:3:EB0000:0:0:0:
 #EXTINF:-1,Discovery Channel
 #EXTVLCOPT:program=6097
-http://halloiptvnl.hopto.org//1:0:16:17D1:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:17D1:C82:3:EB0000:0:0:0:
 #EXTINF:-1,Discovery Showcase HD
 #EXTVLCOPT:program=5060
-http://halloiptvnl.hopto.org//1:0:19:13C4:C95:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:13C4:C95:3:EB0000:0:0:0:
 #EXTINF:-1,DOCUBOX
 #EXTVLCOPT:program=14051
-http://halloiptvnl.hopto.org//1:0:16:36E3:C8C:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:36E3:C8C:3:EB0000:0:0:0:
 #EXTINF:-1,History HD BNL
 #EXTVLCOPT:program=14054
-http://halloiptvnl.hopto.org//1:0:19:36E6:C8C:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:36E6:C8C:3:EB0000:0:0:0:
 #EXTINF:-1,Investigation Discovery
 #EXTVLCOPT:program=6045
-http://halloiptvnl.hopto.org//1:0:16:179D:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:179D:C82:3:EB0000:0:0:0:
 #EXTINF:-1,INSIGHT TV HD INT
 #EXTVLCOPT:program=5011
-http://halloiptvnl.hopto.org//1:0:19:1393:3EA:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:1393:3EA:1:C00000:0:0:0:
 #EXTINF:-1,NGC HD
 #EXTVLCOPT:program=20965
-http://halloiptvnl.hopto.org//1:0:19:51E5:C96:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:51E5:C96:3:EB0000:0:0:0:
 #EXTINF:-1,Nat Geo Wild HD DUT
 #EXTVLCOPT:program=774
-http://halloiptvnl.hopto.org//1:0:19:306:C94:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:306:C94:3:EB0000:0:0:0:
 #EXTINF:-1,Travel XP HD BNL
 #EXTVLCOPT:program=5063
-http://halloiptvnl.hopto.org//1:0:19:13C7:C95:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:13C7:C95:3:EB0000:0:0:0:
 #EXTINF:-1,Boomerang
 #EXTVLCOPT:program=6035
-http://halloiptvnl.hopto.org//1:0:16:1793:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:1793:C82:3:EB0000:0:0:0:
 #EXTINF:-1,Cartoon Network
 #EXTVLCOPT:program=6121
-http://halloiptvnl.hopto.org//1:0:16:17E9:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:17E9:C82:3:EB0000:0:0:0:
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:program=6065
-http://halloiptvnl.hopto.org//1:0:16:17B1:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:17B1:C82:3:EB0000:0:0:0:
 #EXTINF:-1,duck TV DUT
 #EXTVLCOPT:program=14068
-http://halloiptvnl.hopto.org//1:0:16:36F4:C8C:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:36F4:C8C:3:EB0000:0:0:0:
 #EXTINF:-1,KetOp12
 #EXTVLCOPT:program=21112
-http://halloiptvnl.hopto.org//1:0:16:5278:C96:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:5278:C96:3:EB0000:0:0:0:
 #EXTINF:-1,Nickelodeon
 #EXTVLCOPT:program=14074
-http://halloiptvnl.hopto.org//1:0:16:36FA:C8C:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:36FA:C8C:3:EB0000:0:0:0:
 #EXTINF:-1,Nick Jr..
 #EXTVLCOPT:program=28663
-http://halloiptvnl.hopto.org//1:0:1:6FF7:42A:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:6FF7:42A:1:C00000:0:0:0:
 #EXTINF:-1,24Kitchen
 #EXTVLCOPT:program=21055
-http://halloiptvnl.hopto.org//1:0:16:523F:C99:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:523F:C99:3:EB0000:0:0:0:
 #EXTINF:-1,CNBC Europe
 #EXTVLCOPT:program=10030
-http://halloiptvnl.hopto.org//1:0:1:272E:402:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:272E:402:1:C00000:0:0:0:
 #EXTINF:-1,TV5MONDE EUROPE
 #EXTVLCOPT:program=6915
-http://halloiptvnl.hopto.org//1:0:1:1B03:3FE:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:1B03:3FE:1:C00000:0:0:0:
 #EXTINF:-1,CD Infokanaal
 #EXTVLCOPT:program=6112
-http://halloiptvnl.hopto.org//1:0:16:17E0:C82:3:EB0000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:16:17E0:C82:3:EB0000:0:0:0:
 #EXTINF:-1,INSIGHT TV UHD
 #EXTVLCOPT:program=2000
-http://halloiptvnl.hopto.org//1:0:1F:7D0:449:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1F:7D0:449:1:C00000:0:0:0:
 #EXTINF:-1,Das Erste HD
 #EXTVLCOPT:program=10301
-http://halloiptvnl.hopto.org//1:0:19:283D:3FB:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:283D:3FB:1:C00000:0:0:0:
 #EXTINF:-1,ZDF HD
 #EXTVLCOPT:program=11110
-http://halloiptvnl.hopto.org//1:0:19:2B66:3F3:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:2B66:3F3:1:C00000:0:0:0:
 #EXTINF:-1,ZDFinfo HD
 #EXTVLCOPT:program=11170
-http://halloiptvnl.hopto.org//1:0:19:2BA2:3F2:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:2BA2:3F2:1:C00000:0:0:0:
 #EXTINF:-1,zdf_neo HD
 #EXTVLCOPT:program=11130
-http://halloiptvnl.hopto.org//1:0:19:2B7A:3F3:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:2B7A:3F3:1:C00000:0:0:0:
 #EXTINF:-1,WDR HD KÃ¶ln
 #EXTVLCOPT:program=28325
-http://halloiptvnl.hopto.org//1:0:19:6EA5:4B1:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:6EA5:4B1:1:C00000:0:0:0:
 #EXTINF:-1,3sat HD
 #EXTVLCOPT:program=11150
-http://halloiptvnl.hopto.org//1:0:19:2B8E:3F2:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:2B8E:3F2:1:C00000:0:0:0:
 #EXTINF:-1,arte HD
 #EXTVLCOPT:program=10302
-http://halloiptvnl.hopto.org//1:0:19:283E:3FB:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:283E:3FB:1:C00000:0:0:0:
 #EXTINF:-1,Comedy Central
 #EXTVLCOPT:program=28676
-http://halloiptvnl.hopto.org//1:0:1:7004:436:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:7004:436:1:C00000:0:0:0:
 #EXTINF:-1,DELUXE MUSIC
 #EXTVLCOPT:program=65
-http://halloiptvnl.hopto.org//1:0:1:41:7:85:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:41:7:85:C00000:0:0:0:
 #EXTINF:-1,PHOENIX HD
 #EXTVLCOPT:program=10331
-http://halloiptvnl.hopto.org//1:0:19:285B:401:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:285B:401:1:C00000:0:0:0:
 #EXTINF:-1,ProSieben
 #EXTVLCOPT:program=17501
-http://halloiptvnl.hopto.org//1:0:1:445D:453:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:445D:453:1:C00000:0:0:0:
 #EXTINF:-1,Pro7 MAXX
 #EXTVLCOPT:program=17505
-http://halloiptvnl.hopto.org//1:0:1:4461:453:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:4461:453:1:C00000:0:0:0:
 #EXTINF:-1,RTL Television
 #EXTVLCOPT:program=12003
-http://halloiptvnl.hopto.org//1:0:1:2EE3:441:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:2EE3:441:1:C00000:0:0:0:
 #EXTINF:-1,RTL2
 #EXTVLCOPT:program=12020
-http://halloiptvnl.hopto.org//1:0:1:2EF4:441:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:2EF4:441:1:C00000:0:0:0:
 #EXTINF:-1,NITRO
 #EXTVLCOPT:program=12061
-http://halloiptvnl.hopto.org//1:0:1:2F1D:441:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:2F1D:441:1:C00000:0:0:0:
 #EXTINF:-1,RTLplus
 #EXTVLCOPT:program=12080
-http://halloiptvnl.hopto.org//1:0:1:2F30:441:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:2F30:441:1:C00000:0:0:0:
 #EXTINF:-1,SUPER RTL
 #EXTVLCOPT:program=12040
-http://halloiptvnl.hopto.org//1:0:1:2F08:441:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:2F08:441:1:C00000:0:0:0:
 #EXTINF:-1,SAT.1
 #EXTVLCOPT:program=17500
-http://halloiptvnl.hopto.org//1:0:1:445C:453:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:445C:453:1:C00000:0:0:0:
 #EXTINF:-1,ServusTV HD Deutschland
 #EXTVLCOPT:program=4914
-http://halloiptvnl.hopto.org//1:0:19:1332:3EF:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:1332:3EF:1:C00000:0:0:0:
 #EXTINF:-1,SIXX
 #EXTVLCOPT:program=776
-http://halloiptvnl.hopto.org//1:0:1:308:5:85:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:308:5:85:C00000:0:0:0:
 #EXTINF:-1,Sky Sport News HD
 #EXTVLCOPT:program=108
-http://halloiptvnl.hopto.org//1:0:19:6C:C:85:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:6C:C:85:C00000:0:0:0:
 #EXTINF:-1,tagesschau24 HD
 #EXTVLCOPT:program=10375
-http://halloiptvnl.hopto.org//1:0:19:2887:40F:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:2887:40F:1:C00000:0:0:0:
 #EXTINF:-1,VOX
 #EXTVLCOPT:program=12060
-http://halloiptvnl.hopto.org//1:0:1:2F1C:441:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:1:2F1C:441:1:C00000:0:0:0:
 #EXTINF:-1,MDR Sachsen HD
 #EXTVLCOPT:program=10352
-http://halloiptvnl.hopto.org//1:0:19:2870:425:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:2870:425:1:C00000:0:0:0:
 #EXTINF:-1,NDR FS HH HD
 #EXTVLCOPT:program=10329
-http://halloiptvnl.hopto.org//1:0:19:2859:401:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:2859:401:1:C00000:0:0:0:
 #EXTINF:-1,rbb Berlin HD
 #EXTVLCOPT:program=10351
-http://halloiptvnl.hopto.org//1:0:19:286F:425:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:286F:425:1:C00000:0:0:0:
 #EXTINF:-1,Deluxe Music HD
 #EXTVLCOPT:program=5503
-http://halloiptvnl.hopto.org//1:0:19:157F:41F:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:157F:41F:1:C00000:0:0:0:
 #EXTINF:-1,DMAX HD
 #EXTVLCOPT:program=5402
-http://halloiptvnl.hopto.org//1:0:19:151A:455:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:151A:455:1:C00000:0:0:0:
 #EXTINF:-1,kabel eins HD
 #EXTVLCOPT:program=61302
-http://halloiptvnl.hopto.org//1:0:19:EF76:3F9:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:EF76:3F9:1:C00000:0:0:0:
 #EXTINF:-1,MTV HD
 #EXTVLCOPT:program=10103
-http://halloiptvnl.hopto.org//1:0:19:2777:409:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:2777:409:1:C00000:0:0:0:
 #EXTINF:-1,n-tv HD
 #EXTVLCOPT:program=61204
-http://halloiptvnl.hopto.org//1:0:19:EF14:421:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:EF14:421:1:C00000:0:0:0:
 #EXTINF:-1,NICK/MTV+ HD
 #EXTVLCOPT:program=21107
-http://halloiptvnl.hopto.org//1:0:19:5273:41D:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:5273:41D:1:C00000:0:0:0:
 #EXTINF:-1,ProSieben HD
 #EXTVLCOPT:program=61301
-http://halloiptvnl.hopto.org//1:0:19:EF75:3F9:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:EF75:3F9:1:C00000:0:0:0:
 #EXTINF:-1,Pro7 MAXX HD
 #EXTVLCOPT:program=61304
-http://halloiptvnl.hopto.org//1:0:19:EF78:3F9:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:EF78:3F9:1:C00000:0:0:0:
 #EXTINF:-1,RTL HD
 #EXTVLCOPT:program=61200
-http://halloiptvnl.hopto.org//1:0:19:EF10:421:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:EF10:421:1:C00000:0:0:0:
 #EXTINF:-1,RTLII HD
 #EXTVLCOPT:program=61205
-http://halloiptvnl.hopto.org//1:0:19:EF15:421:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:EF15:421:1:C00000:0:0:0:
 #EXTINF:-1,NITRO HD
 #EXTVLCOPT:program=11951
-http://halloiptvnl.hopto.org//1:0:19:2EAF:411:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:2EAF:411:1:C00000:0:0:0:
 #EXTINF:-1,SAT.1 HD
 #EXTVLCOPT:program=61300
-http://halloiptvnl.hopto.org//1:0:19:EF74:3F9:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:EF74:3F9:1:C00000:0:0:0:
 #EXTINF:-1,SAT.1 Gold HD
 #EXTVLCOPT:program=12500
-http://halloiptvnl.hopto.org//1:0:19:30D4:413:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:30D4:413:1:C00000:0:0:0:
 #EXTINF:-1,SIXX HD
 #EXTVLCOPT:program=61303
-http://halloiptvnl.hopto.org//1:0:19:EF77:3F9:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:EF77:3F9:1:C00000:0:0:0:
 #EXTINF:-1,SPORT1 HD
 #EXTVLCOPT:program=5505
-http://halloiptvnl.hopto.org//1:0:19:1581:41F:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:1581:41F:1:C00000:0:0:0:
 #EXTINF:-1,SUPER RTL HD
 #EXTVLCOPT:program=11931
-http://halloiptvnl.hopto.org//1:0:19:2E9B:411:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:2E9B:411:1:C00000:0:0:0:
 #EXTINF:-1,TELE 5 HD
 #EXTVLCOPT:program=5401
-http://halloiptvnl.hopto.org//1:0:19:1519:455:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:1519:455:1:C00000:0:0:0:
 #EXTINF:-1,TLC HD
 #EXTVLCOPT:program=10100
-http://halloiptvnl.hopto.org//1:0:19:2774:409:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:2774:409:1:C00000:0:0:0:
 #EXTINF:-1,VOX HD
 #EXTVLCOPT:program=61201
-http://halloiptvnl.hopto.org//1:0:19:EF11:421:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:EF11:421:1:C00000:0:0:0:
 #EXTINF:-1,WELT HD
 #EXTVLCOPT:program=21108
-http://halloiptvnl.hopto.org//1:0:19:5274:41D:1:C00000:0:0:0:
+http://halloiptvnl.hopto.org:8001/1:0:19:5274:41D:1:C00000:0:0:0:
