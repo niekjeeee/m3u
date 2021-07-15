@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO1
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4962?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO1 EXTRA
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39480?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL4
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4950?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO1 Hevc
+http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/1822?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO2
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4959?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO2 Hevc
+http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/1809?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO3
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/1945?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO3
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4956?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO3 Hevc
+http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/1826?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL4 Hevc
+http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/1835?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL5
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4947?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL5 Hevc
+http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/1814?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS6 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4936?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 7 HD
+http://rv.flysat.live:80/307210013157/307210013157/79806?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 7
+http://mains.services:2086/live/mikekoot/1757909/92882.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 8
+http://mains.services:2086/live/mikekoot/1757909/92883.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 9
+http://mains.services:2086/live/mikekoot/1757909/92884.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 9 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/216.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN  1 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4847?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN  1 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4848?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN  2 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4844?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN  2 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4845?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN  3
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4843?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN  3 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4841?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN  4
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4840?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN  4 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4838?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN  5 H265
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4835?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN  5 HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/4836?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",ZIGGO RACING HD
+http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/46318?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT
+http://mains.services:2086/live/mikekoot/1757909/92898.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT DOCU
+http://mains.services:2086/live/mikekoot/1757909/92904.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT EXTRA
+http://mains.services:2086/live/mikekoot/1757909/92903.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT EXTRA 1 HD
+http://rv.flysat.live:80/307210013157/307210013157/79515?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT EXTRA HD
+http://dimapro.cz:8080/00:1A:79:17:08:C5/fukssjslsljls/59331?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT GOLF
+http://mains.services:2086/live/mikekoot/1757909/92902.ts?checkedby:iptvcat.com
